@@ -1,0 +1,11 @@
+-rw-r--r-- 1 meena meena 8980 Jul  9 19:13 examples.desktop
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Videos
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Templates
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Public
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Music
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Downloads
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Documents
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Desktop
+drwxr-xr-x 2 meena meena 4096 Jul  9 19:43 Pictures
+drwxr-xr-x 3 root  root  4096 Jul  9 19:49 git_demo
+
