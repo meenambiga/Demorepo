@@ -7,5 +7,4 @@ drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Downloads
 drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Documents
 drwxr-xr-x 2 meena meena 4096 Jul  9 19:22 Desktop
 drwxr-xr-x 2 meena meena 4096 Jul  9 19:43 Pictures
-drwxr-xr-x 3 root  root  4096 Jul  9 19:49 git_demo
 
